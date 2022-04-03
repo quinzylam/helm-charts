@@ -1,0 +1,13 @@
+apiVersion: helm.fluxcd.io/v1
+kind: HelmRelease
+metadata:
+  name: test-app
+  namespace: arc-k8s-demo
+spec:
+  releaseName: arc-k8s-demo
+  chart:
+    git: https://github.com/quinzylam/helm-charts.git
+    ref: main
+    path: charts/test-app
+  values:
+    serviceName: test-app
