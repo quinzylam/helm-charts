@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFWtg7ebLwsHOqTJoYbAVy9SNu/soUghHNijFovUwXE1mBVAge2CaoVGQKWEr6b10TmSWLo9yk7e86UusDrgcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Quinten.Lamprecht\\source\\personal\\Addition\\Addition\\Addition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Quinten.Lamprecht\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\Quinten.Lamprecht\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
